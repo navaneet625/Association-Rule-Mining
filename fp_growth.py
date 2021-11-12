@@ -169,7 +169,7 @@ def main():
     fpw_scratch(data,s)
     print()
 
-    print("--------- Khatam...Taataa Good Bye...Gaya----------------------")
+    print("---------Khatam..Bye bye.Tata Good Bye...Gaya-----------------")
 
 
 if __name__ == "__main__":
